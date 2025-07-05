@@ -1,8 +1,9 @@
-## Interface: 100105
+## Interface: 100207, 110000, 110002
 ## Interface-Classic: 11501
 ## Interface-BCC: 20501
 ## Interface-Wrath: 30402
 ## Interface-Cata: 40400
+## Interface-Mists: 50500
 
 ## Author: Kesava
 ## Title: Kui |cff9966ffNameplates
@@ -13,6 +14,7 @@
 ## X-Website: https://github.com/kesava-wow/kuinameplates2
 ## X-Curse-Project-ID: 35095
 ## X-WoWI-ID: 19390
+## X-Wago-ID: kNMd8qGz
 ## OptionalDeps: BigWigs, DBM-Core, RealMobHealth, ThreatClassic-1.0, LibThreatClassic2
 
 lib\embeds.xml
